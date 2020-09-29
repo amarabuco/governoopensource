@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Bem Vindo ao Governo Open Soruce
+### Comunidade para desenvolvimento de projetos de código abertos para Governo
 
-You can use the [editor on GitHub](https://github.com/amarabuco/governoopensource/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+__Já imaginou uma rede de desenvolvedores independentes reunidos para o desenvolvimento de sistemas de código aberto com o foco em atender as diversas necessidades dos órgãos públicos?__
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Já pensou em reunir desenvolvedores e especialistas de todo o Brasil para colaborar na construção de um projeto importante para o seu órgão ou esfera de Governo? Ou somar esforços para criar soluções inovadores para melhorar a Administração Pública?
 
-### Markdown
+E se um dia pudesse ter acesso ao código fonte dos melhores sistemas do Governo Brasileiro sem custo ou formalidades burocráticas para poder implantar onde trabalhar e usufruir dos benefícios de uma tecnologia construída coletivamente?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cansado de ver contratos de TI caros que não entregam o que se propõem? Ou do atraso na evolução tecnológica do setor público?
 
-```markdown
-Syntax highlighted code block
+Junte-se ao Governo Open Source, uma iniciativa independente para criar um hub de profissionais e projetos dedicados a discutir e desenvolver soluções de código aberto para o Setor Público Brasileiro.
 
-# Header 1
-## Header 2
-### Header 3
+### Participe!!!
 
-- Bulleted
-- List
+![Image](https://lh3.googleusercontent.com/VfpdFf3jaMj51B84gO8yiOtlp9ezTU0ByQ9UK6SIEvAiv5NDOgy7DYRzgbpCnETnX6s)
 
-1. Numbered
-2. List
+Acesse o grupo no Slack (https://join.slack.com/t/governoopensource/shared_invite/zt-hyjvbb69-0KO0p9XfHTbdIsofJXeGvg)
 
-**Bold** and _Italic_ and `Code` text
+### Canais
 
-[Link](url) and ![Image](src)
-```
+- Geral
+- NLP
+- Ágil
+- Projetos
+- Estudos
+- Blockchain
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+E outros...
 
-### Jekyll Themes
+### Projetos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amarabuco/governoopensource/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Em breve
