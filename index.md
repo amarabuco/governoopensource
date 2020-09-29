@@ -1,4 +1,4 @@
-## Bem Vindo ao Governo Open Soruce
+## Bem Vindo ao Governo Open Source
 ### Comunidade para desenvolvimento de projetos de código abertos para Governo
 
 _Já imaginou uma rede de desenvolvedores independentes reunidos para o desenvolvimento de sistemas de código aberto com o foco em atender as diversas necessidades dos órgãos públicos?_
